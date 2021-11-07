@@ -4,7 +4,7 @@
   
 ## Results:
  
- - Current employees born between Jan 1, 1952 and Dec 31, 4955 are anticipated to retire in coming years. Their information is summarized in the format below (a sampling table).
+ - Current employees born between Jan 1, 1952 and Dec 31, 1955 (current age 56 -59 years old) are anticipated to retire in coming years. Their information is summarized in the format below (a sampling table).
 
   ![retirement_title](https://user-images.githubusercontent.com/90361056/140659136-fee0a088-08f7-414b-ad31-891bee9255e7.PNG)
 
@@ -17,4 +17,4 @@
   ![mentorship](https://user-images.githubusercontent.com/90361056/140662445-4e2e517d-2a21-4aa1-9c6c-688d6b3b1feb.PNG)
 
 ## Summary:
-  From the results above, we can see about 90,000 employee will retire in the next few years. And majority of them (about 60%) are at senior level. With this huge number of workforce will leave company in a short few years, company whould 
+  From the results above, we can see about 90,000 employee will retire in the next few years. And majority of them (about 60%) are at senior level. With this huge number of workforce will leave company in a short few years, company whould get prepared for massive job openings and new employee training. There are a few things compnay should look into in the next step. (1) More infomation should be added into the mentorship table by using SQL queires, including which department they are belonging to, and who are the department manager. (2) A survey can be given to the employees in the retirement list to collect information such as at which age they plan to retire, therefore, company can prepare for the replacement for those postions in the time order.
